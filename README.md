@@ -1,7 +1,7 @@
 <h1 align="center">🤗你好！</h1>
 <p align="center">
     <b>欢迎来到我的 GitHub 个人主页！</b><br>
-    <b>Welcome to my GitHub profile!</b><br><br>
+    <b>Welcome to my GitHub profile!</b><br><br><br>
     <i>
         我是浅蓝喜灰。<br>
         I'm 1i9h7_b1u3.<br><br>
