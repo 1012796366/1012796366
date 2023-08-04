@@ -11,10 +11,10 @@
         I'm a college student majoring in Intelligence Science and Technology.<br><br>
         我的专业主要涉及人工智能。<br>
         My major mainly involves the field of AI.<br><br>
-        出于个人兴趣，我还自学或者选修了部分软件开发课程。<br>
-        Out of personal interest, I have also self-studied or taken some software development courses.<br><br>
-        我的 GitHub 个人主页仍在建设中…<br>
-        My GitHub profile is still under construction...
+        出于个人兴趣，我还学习了计算机图形学。<br>
+        Out of personal interest, I have also studied Computer Graphics.<br><br>
+        欢迎你访问[我的个人站点](https://b1u3.win)<br>
+        Welcome to visit [my personal blogs](https://b1u3.win)
         <br>
     </i><br>
 
