@@ -13,8 +13,8 @@
         My major mainly involves the field of AI.<br><br>
         出于个人兴趣，我还学习了计算机图形学。<br>
         Out of personal interest, I have also studied Computer Graphics.<br><br>
-        欢迎你访问我的个人站点：https://b1u3.win<br>
-        Welcome to visit my personal blogs: https://b1u3.win
+        欢迎你访问我的个人站点：https://blog.b1u3.win<br>
+        Welcome to visit my personal blogs: https://blog.b1u3.win
         <br>
     </i><br>
 
